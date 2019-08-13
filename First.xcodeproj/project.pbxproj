@@ -41,12 +41,12 @@
 
 /* Begin PBXFileReference section */
 		0415BE0022F823CF0028DFC1 /* First.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = First.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0415BE0322F823CF0028DFC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = /Users/jack/Documents/Dev/iOS/First/First/AppDelegate.swift; sourceTree = "<absolute>"; };
+		0415BE0322F823CF0028DFC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = First/AppDelegate.swift; sourceTree = SOURCE_ROOT; };
 		0415BE0522F823CF0028DFC1 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		0415BE0722F823CF0028DFC1 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		0415BE0922F823CF0028DFC1 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		0415BE0B22F823CF0028DFC1 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
-		0415BE1022F823D00028DFC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = /Users/jack/Documents/Dev/iOS/First/First/Assets.xcassets; sourceTree = "<absolute>"; };
+		0415BE1022F823D00028DFC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = /Users/jack/Documents/Dev/github/first/First/Assets.xcassets; sourceTree = "<absolute>"; };
 		0415BE1322F823D00028DFC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0415BE1522F823D00028DFC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0415BE1A22F823D10028DFC1 /* FirstTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
